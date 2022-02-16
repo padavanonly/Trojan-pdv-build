@@ -1,6 +1,6 @@
 Trojan_VERSION := 1.16.0
 Trojan_SRC := trojan-$(Trojan_VERSION)
-Trojan_URL := https://github.com/trojan-gfw/trojan/archive/v$(Trojan_VERSION).tar.gz
+Trojan_URL := https://github.com/padavanonly/trojan/archive/refs/tags/v1.16.0.tar.gz
 
 OpenSSL_VERSION := 1.1.1m
 OpenSSL_SRC := openssl-$(OpenSSL_VERSION)
